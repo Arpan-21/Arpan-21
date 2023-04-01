@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arpan-21
+- 👋 Hi, I’m Arpan Jain.
 - 👀 I’m interested in CODING,VIDEO-EDITING.
-- 🌱 I’m currently learning WEB-DEVELOPMENT.
+- 🌱 I'm a Web Developer.
 - 💞️ I’m looking to collaborate on something really awesome project.
 - 📫 How to reach me: mail me at arpanjain422@gmail.com
 
@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/arpan-jain-8514a9145/">
@@ -23,8 +27,4 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=Arpan-21&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
